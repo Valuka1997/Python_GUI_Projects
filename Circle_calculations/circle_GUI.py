@@ -105,6 +105,6 @@ btn["fg"] = "#000000"
 btn["justify"] = "center"
 btn["text"] = "Calculate"
 # btn['state'] = "disabled"
-btn.place(x=100, y=280, width=172, height=50)
+btn.place(x=100, y=280, width=190, height=55)
 
 root.mainloop()
